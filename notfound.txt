@@ -84,7 +84,6 @@ lincoln
 lr
 marshalls
 mattel
-mc
 mh
 mil
 mint
