@@ -431,7 +431,6 @@ godaddy whois.nic.godaddy
 gold whois.nic.gold
 goldpoint whois.nic.goldpoint
 golf whois.nic.golf
-goo whois.nic.gmo
 goodyear whois.nic.goodyear
 goog whois.nic.google
 google whois.nic.google
