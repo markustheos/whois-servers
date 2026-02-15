@@ -1121,7 +1121,6 @@ win whois.nic.win
 windows whois.nic.windows
 wine whois.nic.wine
 wme whois.nic.wme
-wolterskluwer whois.nic.wolterskluwer
 woodside whois.nic.woodside
 work whois.nic.work
 works whois.nic.works
